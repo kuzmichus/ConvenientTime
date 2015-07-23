@@ -1,0 +1,12 @@
+{
+    "name": "kuzmich/convenient-time",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Kuzin",
+            "email": "sergey@kuzin.name"
+        }
+    ],
+    "require": {}
+}
