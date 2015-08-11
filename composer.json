@@ -1,12 +1,17 @@
 {
-    "name": "kuzmich/convenient-time",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Sergey Kuzin",
-            "email": "sergey@kuzin.name"
-        }
-    ],
-    "require": {}
+  "name": "kuzmich/convenient-time",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Kuzin",
+      "email": "sergey@kuzin.name"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "ConvenientTime\\": "src/"
+    }
+  }
 }
